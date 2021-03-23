@@ -1,0 +1,16 @@
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin@admin', 'admin@admin', 'Bharat', 'Kumar', 'admin@admin' );   
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin1@admin1', 'admin1@admin1', 'Virat', 'Kumar', 'admin1@admin1' );
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin2@admin2', 'admin2@admin2', 'Ajay', 'Kumar', 'admin2@admin2');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin3@admin3', 'admin3@admin3', 'Akhilesh', 'Kumar', 'admin3@admin3');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin4@admin4', 'admin4@admin4', 'Girish', 'Kumar', 'admin4@admin4');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin5@admin5', 'admin5@admin5', 'Jagat', 'Kumar', 'admin5@admin5');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin6@admin6', 'admin6@admin6', 'Bhagat', 'Kumar', 'admin6@admin6');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin7@admin7', 'admin7@admin7', 'Vistaar', 'Kumar', 'admin7@admin7');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin8@admin8', 'admin8@admin8', 'Prafull', 'Kumar', 'admin8@admin8');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin9@admin9', 'admin9@admin9', 'Nishchal', 'Kumar', 'admin9@admin9');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin10@admin10', 'admin10@admin10', 'Vishesh', 'Kumar', 'admin10@admin10');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin11@admin11', 'admin11@admin11', 'Rajat', 'Kumar', 'admin11@admin11');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin12@admin12', 'admin12@admin12', 'Prakat', 'Kumar', 'admin12@admin12');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin13@admin13', 'admin13@admin13', 'Anand', 'Kumar', 'admin13@admin13');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin14@admin14', 'admin14@admin14', 'Prahlad', 'Kumar', 'admin14@admin14');
+INSERT INTO app_user (username, useremail, userfirstname, userlastname, useraddress) VALUES ('admin15@admin15', 'admin15@admin15', 'Vishnu', 'Kumar', 'admin15@admin15');
